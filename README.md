@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contract-Management
 
 A full-stack contract management application under development.  
@@ -103,3 +104,6 @@ Push your branch and open a Pull Request
 
 License
 Distributed under the MIT License. Replace with your chosen license if needed.
+=======
+# Contract-Management
+>>>>>>> d3fbf340cb7fb3399de32a0627354018917f6263
